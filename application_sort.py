@@ -1,3 +1,11 @@
+#Created by Caleb Street
+#Computer Science Seminar Course Project
+#application_sort.py
+#Reads applicant information from a database
+#Calculates scores for each applicant
+#Determines which applicants should be selected and which applicants should not be accepted
+#Adds the applicants to the appropriate database (accepted or rejected)
+
 import sqlite3
 import os.path
 

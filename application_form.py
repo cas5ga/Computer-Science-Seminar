@@ -1,3 +1,10 @@
+#Created by Caleb Street
+#Computer Science Seminar Course Project
+#application_form.py
+#Creates an electronic form for college applications
+#This is the form the applicant must fill out to apply for the college
+#This form sends applicant information to a database
+
 import tkinter
 import pyautogui
 import sqlite3
